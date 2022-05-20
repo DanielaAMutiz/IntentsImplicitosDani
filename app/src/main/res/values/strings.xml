@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsImplicitosDaniMutiz</string>
+
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">openWebsite"</string>
+
+
+    <string name="edittext_share">\'Twas brilling and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+
+</resources>
